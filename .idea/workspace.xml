@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2fd9bcf2-c3c5-499d-ac82-172e7a7c1163" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="2fd9bcf2-c3c5-499d-ac82-172e7a7c1163" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,7 +14,7 @@
       <file leaf-file-name="Pavel_Heraska_L1.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Pavel_Heraska_L1.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="409">
+            <state relative-caret-position="26">
               <caret line="70" column="4" lean-forward="true" selection-start-line="70" selection-start-column="4" selection-end-line="70" selection-end-column="4" />
               <folding />
             </state>
@@ -91,6 +89,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tasks" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -267,12 +270,12 @@
       <workItem from="1490775769420" duration="21000" />
       <workItem from="1490776474947" duration="351000" />
       <workItem from="1490777434665" duration="2885000" />
-      <workItem from="1490945868021" duration="2025000" />
+      <workItem from="1490945868021" duration="2086000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7361000" />
+    <option name="totallyTimeSpent" value="7422000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="28" width="1680" height="988" extended-state="0" />
@@ -358,7 +361,7 @@
     <entry file="file://$PROJECT_DIR$/test.erb" />
     <entry file="file://$PROJECT_DIR$/Pavel_Heraska_L1.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
+        <state relative-caret-position="26">
           <caret line="70" column="4" lean-forward="true" selection-start-line="70" selection-start-column="4" selection-end-line="70" selection-end-column="4" />
           <folding />
         </state>
