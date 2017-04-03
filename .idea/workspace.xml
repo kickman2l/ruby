@@ -2,6 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2fd9bcf2-c3c5-499d-ac82-172e7a7c1163" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tasks/LECTURE_1.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tasks/LECTURE_2.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tasks/LECTURE_3.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tasks/LECTURE_4.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tasks/LECTURE_5.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tasks/LECTURE_6.pdf" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tasks/Lecture_1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tasks/Lecture_2.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tasks/Lecture_3.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tasks/Lecture_4.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tasks/Lecture_5.pdf" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pavel_Heraska_L4.rb" afterPath="$PROJECT_DIR$/Pavel_Heraska_L4.rb" />
     </list>
@@ -17,8 +28,8 @@
       <file leaf-file-name="Pavel_Heraska_L4.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Pavel_Heraska_L4.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="54">
+              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -292,15 +303,15 @@
       <workItem from="1490777434665" duration="2885000" />
       <workItem from="1490945868021" duration="2677000" />
       <workItem from="1491203854983" duration="109000" />
-      <workItem from="1491203965488" duration="1593000" />
+      <workItem from="1491203965488" duration="2964000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9715000" />
+    <option name="totallyTimeSpent" value="11086000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="28" width="1680" height="988" extended-state="0" />
+    <frame x="0" y="28" width="1680" height="988" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24201474" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -432,8 +443,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Pavel_Heraska_L4.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="54">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
