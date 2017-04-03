@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 #Fibonacci
 
 fib_length = ARGV[0].to_i

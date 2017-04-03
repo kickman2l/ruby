@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 # Task 1 proc and time
 
 def deb_time(proc)
