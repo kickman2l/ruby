@@ -58,8 +58,8 @@ class UptimeCommand < Command
     if (/cygwin|mswin|mingw|bccwin|wince|emx/ =~ RUBY_PLATFORM) != nil
       say ("Operating system is Windows based. Nothing to do here.")
     else
-      temp_uptime = File.read('/proc/uptime').split[0].to_i
-      say (Time.at(temp_uptime).utc.strftime("%Hh %Mmin %Ssec"))
+      u_ptime = File.read('/proc/uptime').split[0].to_i
+      say (Time.at(u_ptime).utc.strftime("%Hh %Mmin %Ssec"))
     end
   end
 end
@@ -95,27 +95,15 @@ class PingCommand < Command
     #check operating system
     if (/cygwin|mswin|mingw|bccwin|wince|emx/ =~ RUBY_PLATFORM) != nil
       %x[ping #{ip_addr} > nul].inspect
-      var_tt = $?
-      result = var_tt.to_s.split[3]
-      if result.to_i == 0
-        say('True')
-      else
-        say('False')
-      end
     else
-      #TODO: check on linux
-      # require 'net/ping'
-      #
-      # def up?(host)
-      #   check = Net::Ping::External.new(host)
-      #   check.ping?
-      # end
-      #
-      # chost = '10.0.0.1'
-      # puts up?(chost) # returns true if ping replies
-
-      temp_uptime = File.read('/proc/uptime').split[0].to_i
-      say (Time.at(temp_uptime).utc.strftime("%Hh %Mmin %Ssec"))
+      %x[ping #{ip_addr} -W 5 -c 5 > /dev/null].inspect
+    end
+    var_tt = $?
+    result = var_tt.to_s.split[3]
+    if result.to_i == 0
+      say('True')
+    else
+      say('False')
     end
   end
 end
@@ -128,7 +116,7 @@ class EchoCommand < Command
   end
 
   def self.description
-    'Prints the first received argument'
+    'Prints all received arguments as string'
   end
 
   def run(echo_var='')
@@ -140,11 +128,8 @@ class EchoCommand < Command
     else
       say(echo_var)
     end
-
   end
 end
-
-
 
 while true
   print '=> '
