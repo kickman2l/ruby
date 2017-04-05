@@ -1,0 +1,12 @@
+2017-04-05 14:02:53 +0300 | undefined method `downcase' for nil:NilClass
+2017-04-05 14:04:13 +0300 | undefined method `split' for nil:NilClass
+2017-04-05 14:11:54 +0300 | undefined method `output_log' for #<Hash:0x000000017c4510>
+2017-04-05 14:15:09 +0300 | ["Pavel_Heraska_L5.rb:22:in `block in command_by_name'", "Pavel_Heraska_L5.rb:21:in `each'", "Pavel_Heraska_L5.rb:21:in `command_by_name'", "Pavel_Heraska_L5.rb:152:in `<main>'"]
+2017-04-05 14:15:10 +0300 | ["Pavel_Heraska_L5.rb:22:in `block in command_by_name'", "Pavel_Heraska_L5.rb:21:in `each'", "Pavel_Heraska_L5.rb:21:in `command_by_name'", "Pavel_Heraska_L5.rb:152:in `<main>'"]
+2017-04-05 14:19:19 +0300 | ["Pavel_Heraska_L5.rb:45:in `[]'", "Pavel_Heraska_L5.rb:45:in `description'", "Pavel_Heraska_L5.rb:50:in `block in run'", "Pavel_Heraska_L5.rb:49:in `each'", "Pavel_Heraska_L5.rb:49:in `run'", "Pavel_Heraska_L5.rb:29:in `block in command_by_name'", "Pavel_Heraska_L5.rb:21:in `each'", "Pavel_Heraska_L5.rb:21:in `command_by_name'", "Pavel_Heraska_L5.rb:152:in `<main>'"]
+2017-04-05 14:19:22 +0300 | ["Pavel_Heraska_L5.rb:45:in `[]'", "Pavel_Heraska_L5.rb:45:in `description'", "Pavel_Heraska_L5.rb:50:in `block in run'", "Pavel_Heraska_L5.rb:49:in `each'", "Pavel_Heraska_L5.rb:49:in `run'", "Pavel_Heraska_L5.rb:29:in `block in command_by_name'", "Pavel_Heraska_L5.rb:21:in `each'", "Pavel_Heraska_L5.rb:21:in `command_by_name'", "Pavel_Heraska_L5.rb:152:in `<main>'"]
+2017-04-05 14:25:04 +0300 | ["Pavel_Heraska_L5.rb:22:in `block in command_by_name'", "Pavel_Heraska_L5.rb:21:in `each'", "Pavel_Heraska_L5.rb:21:in `command_by_name'", "Pavel_Heraska_L5.rb:152:in `<main>'"]
+2017-04-05 14:25:04 +0300 | ["Pavel_Heraska_L5.rb:22:in `block in command_by_name'", "Pavel_Heraska_L5.rb:21:in `each'", "Pavel_Heraska_L5.rb:21:in `command_by_name'", "Pavel_Heraska_L5.rb:152:in `<main>'"]
+2017-04-05 14:25:06 +0300 | ["Pavel_Heraska_L5.rb:22:in `block in command_by_name'", "Pavel_Heraska_L5.rb:21:in `each'", "Pavel_Heraska_L5.rb:21:in `command_by_name'", "Pavel_Heraska_L5.rb:152:in `<main>'"]
+2017-04-05 15:04:23 +0300 | ["Pavel_Heraska_L5.rb:21:in `each'", "Pavel_Heraska_L5.rb:21:in `command_by_name'", "Pavel_Heraska_L5.rb:151:in `block in <main>'", "Pavel_Heraska_L5.rb:146:in `loop'", "Pavel_Heraska_L5.rb:146:in `<main>'"]
+2017-04-05 15:04:57 +0300 | ["Pavel_Heraska_L5.rb:21:in `each'", "Pavel_Heraska_L5.rb:21:in `command_by_name'", "Pavel_Heraska_L5.rb:151:in `block in <main>'", "Pavel_Heraska_L5.rb:146:in `loop'", "Pavel_Heraska_L5.rb:146:in `<main>'"]

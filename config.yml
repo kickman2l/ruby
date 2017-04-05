@@ -1,0 +1,9 @@
+output_log: output.log
+error_log: error.log
+debug: true
+commands:
+  - help: Help command prints help
+  - uptime: Prints the uptime of the system
+  - date: Prints current date and time
+  - ping: Prints TRUE if the remote server is accessible, otherwise prints FALSE
+  - echo: Prints all received arguments as string

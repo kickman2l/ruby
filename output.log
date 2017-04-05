@@ -1,0 +1,62 @@
+2017-04-05 13:37:30 +0300 | uptime |03h 20min 10sec
+2017-04-05 13:37:32 +0300 | date |Current date is: 2017-04-05 13:37:32 +0300
+2017-04-05 13:37:42 +0300 | ping |True
+2017-04-05 13:37:48 +0300 | echo |ASD AS DasD asD aSD Asd asd
+2017-04-05 14:02:19 +0300 | ping | True
+2017-04-05 14:03:46 +0300 |  | help: Prints list of commands and their descriptions
+2017-04-05 14:03:46 +0300 |  | uptime: Prints the uptime of the system
+2017-04-05 14:03:46 +0300 |  | date: Prints current date and time
+2017-04-05 14:03:46 +0300 |  | ping: Prints TRUE if the remote server is accessible, otherwise prints FALSE
+2017-04-05 14:03:46 +0300 |  | echo: Prints all received arguments as string
+2017-04-05 14:13:35 +0300 |  | help: Prints list of commands and their descriptions
+2017-04-05 14:13:35 +0300 |  | uptime: Prints the uptime of the system
+2017-04-05 14:13:35 +0300 |  | date: Prints current date and time
+2017-04-05 14:13:35 +0300 |  | ping: Prints TRUE if the remote server is accessible, otherwise prints FALSE
+2017-04-05 14:13:35 +0300 |  | echo: Prints all received arguments as string
+2017-04-05 14:13:41 +0300 |  | help: Prints list of commands and their descriptions
+2017-04-05 14:13:41 +0300 |  | uptime: Prints the uptime of the system
+2017-04-05 14:13:41 +0300 |  | date: Prints current date and time
+2017-04-05 14:13:41 +0300 |  | ping: Prints TRUE if the remote server is accessible, otherwise prints FALSE
+2017-04-05 14:13:41 +0300 |  | echo: Prints all received arguments as string
+2017-04-05 14:13:46 +0300 | uptime | 03h 56min 26sec
+2017-04-05 14:18:38 +0300 |  | help: 
+2017-04-05 14:18:38 +0300 |  | uptime: Prints the uptime of the system
+2017-04-05 14:18:38 +0300 |  | date: Prints current date and time
+2017-04-05 14:18:38 +0300 |  | ping: Prints TRUE if the remote server is accessible, otherwise prints FALSE
+2017-04-05 14:18:38 +0300 |  | echo: Prints all received arguments as string
+2017-04-05 14:19:25 +0300 | ping | False
+2017-04-05 14:21:04 +0300 |  | help: Help command prints help
+2017-04-05 14:21:04 +0300 |  | uptime: Prints the uptime of the system
+2017-04-05 14:21:04 +0300 |  | date: Prints current date and time
+2017-04-05 14:21:04 +0300 |  | ping: Prints TRUE if the remote server is accessible, otherwise prints FALSE
+2017-04-05 14:21:04 +0300 |  | echo: Prints all received arguments as string
+2017-04-05 14:22:44 +0300 |  | help: Help command prints help
+2017-04-05 14:22:44 +0300 |  | uptime: 
+2017-04-05 14:22:44 +0300 |  | date: 
+2017-04-05 14:22:44 +0300 |  | ping: 
+2017-04-05 14:22:44 +0300 |  | echo: 
+2017-04-05 14:23:23 +0300 |  | help: Help command prints help
+2017-04-05 14:23:23 +0300 |  | uptime: Prints the uptime of the system
+2017-04-05 14:23:23 +0300 |  | date: Prints current date and time
+2017-04-05 14:23:23 +0300 |  | ping: Prints TRUE if the remote server is accessible, otherwise prints FALSE
+2017-04-05 14:23:23 +0300 |  | echo: Prints all received arguments as string
+2017-04-05 15:05:02 +0300 |  | help: Help command prints help
+2017-04-05 15:05:02 +0300 |  | uptime: Prints the uptime of the system
+2017-04-05 15:05:02 +0300 |  | date: Prints current date and time
+2017-04-05 15:05:02 +0300 |  | ping: Prints TRUE if the remote server is accessible, otherwise prints FALSE
+2017-04-05 15:05:02 +0300 |  | echo: Prints all received arguments as string
+2017-04-05 15:12:34 +0300 |  | help: Help command prints help
+2017-04-05 15:12:34 +0300 |  | uptime: Prints the uptime of the system
+2017-04-05 15:12:34 +0300 |  | date: Prints current date and time
+2017-04-05 15:12:34 +0300 |  | ping: Prints TRUE if the remote server is accessible, otherwise prints FALSE
+2017-04-05 15:12:34 +0300 |  | echo: Prints all received arguments as string
+2017-04-05 15:18:15 +0300 | ping | True
+2017-04-05 15:26:27 +0300 |  | help: Help command prints help
+2017-04-05 15:26:27 +0300 |  | uptime: Prints the uptime of the system
+2017-04-05 15:26:27 +0300 |  | date: Prints current date and time
+2017-04-05 15:26:27 +0300 |  | ping: Prints TRUE if the remote server is accessible, otherwise prints FALSE
+2017-04-05 15:26:27 +0300 |  | echo: Prints all received arguments as string
+2017-04-05 15:26:27 +0300 | uptime | Operating system is Windows based.
+2017-04-05 15:26:27 +0300 | date | Current date is: 2017-04-05 15:26:27 +0300
+2017-04-05 15:26:27 +0300 | ping | True
+2017-04-05 15:26:27 +0300 | echo | 
